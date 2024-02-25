@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "mahmoud",
+        "lname": "soliman",
+        "age": 21,
+        "city": "tanta"
+    },
+    {
+        "id": 3,
+        "fname": "Aya",
+        "lname": "soliman",
+        "age": 17,
+        "city": "tanta"
+    },
+    {
+        "id": 5,
+        "fname": "Hessien",
+        "lname": "soliman",
+        "age": 14,
+        "city": "tanta"
+    },
+    {
+        "id": 7,
+        "fname": "mohamed",
+        "lname": "soliman",
+        "age": 24,
+        "city": "tanta"
+    },
+    {
+        "id": 9,
+        "fname": "Elsayed",
+        "lname": "soliman",
+        "age": 54,
+        "city": "tanta"
+    },
+    {
+        "id": 10,
+        "fname": "Elshahat",
+        "lname": "soliman",
+        "age": 72,
+        "city": "tanta"
+    }
+]
